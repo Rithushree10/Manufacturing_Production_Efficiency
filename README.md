@@ -8,3 +8,4 @@ Excel,MySQL,Power BI, Tableau
 > Identified Key factors contributing to employee retention
 > Designed dashboards with visuals 
 > Presented and Recommended stratergies to improve employee engagement
+![ma](https://github.com/user-attachments/assets/f18b73d3-ac2f-4deb-9de1-25b2e34c3e38)
